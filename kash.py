@@ -82,4 +82,4 @@ for tag in tags:
         time.sleep(4)
 
 
-# browser.quit()
+browser.quit()
